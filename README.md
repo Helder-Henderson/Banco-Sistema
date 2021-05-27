@@ -14,5 +14,4 @@ Repositório feito a partir de um projeto feito em coletivo com dois amigos da f
 
 ### Aqui vai um Pré-View 🖼️:
 
-![banco](https://user-images.githubusercontent.com/59569208/112402815-43be1c80-8d1e-11eb-849c-654bc1ab5997.jpg)
-
+![sistema_banco](https://user-images.githubusercontent.com/59569208/119749020-9033ee80-be6c-11eb-8a18-b0ac681d3d2e.gif)
