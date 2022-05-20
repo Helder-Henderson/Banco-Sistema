@@ -8,7 +8,7 @@ Repositório feito a partir de um projeto feito em coletivo com dois amigos da f
 - Swing
 
 ### O que aprendi? 👨‍🎓
-- Utilizar corretamente POO
+- Utilizar POO
 - Tratamento de Exceções
 - GUI
 
